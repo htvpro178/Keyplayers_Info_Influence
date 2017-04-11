@@ -1,0 +1,8 @@
+6
+Cac dinh anh huong sap giam dan
+Suc anh huong cua dinh 3 : 0.570578
+Suc anh huong cua dinh 2 : 0.387196
+Suc anh huong cua dinh 4 : 0.256644
+Suc anh huong cua dinh 1 : 0.254235
+Suc anh huong cua dinh 5 : 0.167184
+Suc anh huong cua dinh 6 : 0
